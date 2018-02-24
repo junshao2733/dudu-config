@@ -1,1 +1,4 @@
-foo: a
+zuul:
+  ignore:
+    -startWith: /static
+    -startWith: /static2
