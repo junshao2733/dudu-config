@@ -1,6 +1,1 @@
-zuul:
-  ignore:
-    -startWith: /static
-    -startWith: /static2
-
 foo: a
