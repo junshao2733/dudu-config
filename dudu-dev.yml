@@ -1,3 +1,5 @@
 zuul:
   ignore:
-    -startWith: /static
+    startWith: 
+      - /static
+      - /static2
