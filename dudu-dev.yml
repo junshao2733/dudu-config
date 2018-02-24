@@ -1,5 +1,1 @@
-zuul:
-  ignore:
-    startWith: 
-      - /static
-      - /static2
+zuul: a
